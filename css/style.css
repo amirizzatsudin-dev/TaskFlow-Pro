@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+
+    background:#f4f7fc;
+
+}
+
+.navbar-logo{
+    width:40px;
+    height:40px;
+    object-fit:contain;
+    border-radius:10px;
+}
+
+.login-card{
+
+    width:420px;
+    padding:40px;
+    border:none;
+    border-radius:20px;
+
+}
+
+.login-logo{
+    width:65px;
+    height:65px;
+    object-fit:contain;
+    margin-bottom:15px;
+}
+
+.logo{
+
+    width:80px;
+    height:80px;
+
+    background:#0d6efd;
+
+    color:white;
+
+    border-radius:50%;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    margin:auto;
+
+    font-size:35px;
+
+}
+
+.form-control{
+
+    height:50px;
+    border-radius:10px;
+
+}
+
+.btn{
+
+    height:50px;
+    border-radius:10px;
+    font-weight:600;
+
+}
